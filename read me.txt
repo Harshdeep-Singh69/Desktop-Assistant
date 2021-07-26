@@ -1,0 +1,5 @@
+Copy Face_recognition folder in Python36
+
+Copy Database
+
+Run welcome.py in IDLE 3.6 python
